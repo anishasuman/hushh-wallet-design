@@ -46,7 +46,6 @@ This design showcases a professional digital wallet card including user identity
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="0" />
   <img src="https://img.icons8.com/color/48/design.png" width="40" />
   <img src="https://img.icons8.com/color/48/adobe-illustrator.png" width="40" />
-  <img src="https://img.icons8.com/color/48/experiment.png" width="40" />
 </p>
 
 
