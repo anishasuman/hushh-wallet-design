@@ -38,7 +38,7 @@ This design showcases a professional digital wallet card including user identity
 🟣 **Figma** | ✏️ **Vector Tools** | 🔳 **QR Generator** | 🪄 **Shadows & Gradients**
 
 <p align="center">
-  <img src="preview.png" width="700" alt="Hushh Wallet Preview"/>
+  < alt="Hushh Wallet Preview"/>
 </p>
 
 <p align="center">
