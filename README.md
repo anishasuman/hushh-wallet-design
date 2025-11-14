@@ -32,14 +32,23 @@ This design showcases a professional digital wallet card including user identity
 * 🖼️ Digital wallet–style card aesthetic
 
 ---
+## 📸 Design Preview
 
-## 📸 **Preview**
+### 🎨 Made with  
+🟣 **Figma** | ✏️ **Vector Tools** | 🔳 **QR Generator** | 🪄 **Shadows & Gradients**
 
-Your UI preview is shown below:
+<p align="center">
+  <img src="preview.png" width="700" alt="Hushh Wallet Preview"/>
+</p>
 
-(preview.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="0" />
+  <img src="https://img.icons8.com/color/48/design.png" width="40" />
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" width="40" />
+  <img src="https://img.icons8.com/color/48/experiment.png" width="40" />
+</p>
 
----
 
 ## 🛠 **Tools Used**
 
