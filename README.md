@@ -35,18 +35,20 @@ This design showcases a professional digital wallet card including user identity
 ## 📸 Design Preview
 
 ### 🎨 Made with  
-🟣 **Figma** | ✏️ **Vector Tools** | 🟪 **QR Generator** | ✨ **Shadows & Gradients**
+🟣 **Figma** | ✏️ **Vector Tools** | 🔳 **QR Generator** | 🪄 **Shadows & Gradients**
 
 <p align="center">
   <img src="preview.png" width="700" alt="Hushh Wallet Preview"/>
 </p>
 
 <p align="center">
-  <img src="figma.svg" width="40" alt="Figma Icon"/>
-  <img src="design.png" width="40" alt="Design Tools"/>
-  <img src="qr.png" width="40" alt="QR Code Icon"/>
-  <img src="magic.png" width="40" alt="Magic Effects Icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="0" />
+  <img src="https://img.icons8.com/color/48/design.png" width="40" />
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" width="40" />
+  <img src="https://img.icons8.com/color/48/experiment.png" width="40" />
 </p>
+
 
 ## 🛠 **Tools Used**
 
