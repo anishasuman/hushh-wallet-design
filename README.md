@@ -1,4 +1,4 @@
-# 🎨✨ **Hushh Wallet – Personal Basics & Consent Card (Figma Design)**
+# 🎨✨ **Hush Wallet – Personal Basics & Consent Card (Figma Design)**
 
 A clean, modern, privacy-focused UI design created entirely in **Figma**.
 This design showcases a professional digital wallet card including user identity, QR code, branding, and security badges.
